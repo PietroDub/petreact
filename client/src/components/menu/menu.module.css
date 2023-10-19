@@ -3,7 +3,7 @@
     top: 0;
     left: 0;
     right: 0;
-    height: 80px;
+    height: 110px;
     background: #090580;
     font-family: "Open Sans", sans-serif;
     display: flex;
@@ -14,6 +14,11 @@
 
 .logo img{
     width: 7em;
-    height: 10;
+    margin-top: 30px;
+}
 
+.bar input{
+    width: 60em;
+    height: 2.5em;
+    border-radius: 20px;
 }
