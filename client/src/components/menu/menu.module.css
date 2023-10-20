@@ -8,17 +8,38 @@
     font-family: "Open Sans", sans-serif;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     z-index: 2;
+    padding-left: 15em;
 }
 
 .logo img{
     width: 7em;
-    margin-top: 30px;
+    /* margin-top: 30px; */
+    /* margin-left: -15em; */
 }
 
 .bar input{
-    width: 60em;
+    width: 40em;
     height: 2.5em;
     border-radius: 20px;
+   
+}
+
+.bar h2{
+    display:flex;
+}
+
+.Letras{
+    width: 25em;
+    display:flex;
+    justify-content: space-around;
+    /* color: #000; */
+}
+
+.Login{
+    width: 25em;
+    display:flex;
+    justify-content: space-around;
+    /* color: #000; */
 }

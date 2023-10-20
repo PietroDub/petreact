@@ -1,0 +1,19 @@
+.pe{
+    background-color: #090580;
+    height: 5em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid;
+    padding: 1rem;
+}
+.pe verde{
+    background-color: aquamarine;
+}
+.pe p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

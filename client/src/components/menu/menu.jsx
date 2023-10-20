@@ -7,9 +7,17 @@ const Menu = () => {
         <div>
           <img src={logo} alt="Logo do pet" />
         </div>
-        <h1>littlePetShop</h1>
+
       </div>
+        <div className={styles.Letras}>
+          <h2>Sobre</h2>
+          <h2>adoção</h2>
+          <h2>Loja</h2>
+        </div>
       <input type="text" placeholder="Buscar" />
+      <div className={styles.Login}>
+     <h2>Login</h2>
+      </div>
     </div>
   );
 };
