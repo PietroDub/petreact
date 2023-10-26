@@ -1,0 +1,32 @@
+.about{
+   margin-top: 9em;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+}
+.about img{
+    width: 60%;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin: 5px;
+    border: 3px solid #488fb1;
+}
+
+.titleabout{
+    color: #f0fff0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #488fb1;
+    border: 2px solid #f0fff0;
+    border-radius: 8px;
+    padding: 5px;
+    margin-top: 20px;
+    text-align: center;
+   
+}
+.textabout{
+    color: black;
+    margin-bottom: 50em;
+
+}
